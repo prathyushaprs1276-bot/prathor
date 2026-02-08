@@ -38,4 +38,4 @@ I optimize the query by rewriting it for efficiency, adding appropriate indexing
 or adjusting warehouse size if necessary. I test the changes and monitor the performance 
 again to ensure the issue is resolved. This structured approach helps me pinpoint the 
 root cause and implement targeted solutions effectively.
-
+Hi, This is Prathor
